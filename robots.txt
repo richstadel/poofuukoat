@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaiyaethe.yzheng.me/sitemap.xml
